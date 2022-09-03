@@ -1,0 +1,35 @@
+{
+"app_id": "wx6363da8abecf7dd2",
+"app_secret": "35f92ec92fadc957c2c7073d871c59c9",
+
+"template_id": "JMf2Z-gKklmCEkGyiLS0T-fkf5uaMxw0l16177wFGVE",
+"user_id": ["ozN1X69CG66YpQxbFv610ho2HypE"],
+#"user_id": ["" , "请替换为自己的 微信号 02"],
+
+"C_ShengFen": "河南",
+"C_ChengShi": "郑州",
+"S_XingZuo": "双鱼座",
+
+"S_Love": "2021-06-03",
+
+"birthday1": "2022-10-01",
+
+"C_String01": "可以替换为自己想要的文字 01",
+"C_String02": "2022-09-01",
+"C_String03": "可以替换为自己想要的文字 03",
+
+# 天气预报
+"API_TQYB":"2dc61dff59de6b5f8efa4e36a6727015",
+# 星座运势
+"API_XZYS":"2dc61dff59de6b5f8efa4e36a6727015",
+
+# 早安心语
+"API_ZAXY":"2dc61dff59de6b5f8efa4e36a6727015",
+# 晚安心语
+"API_WAXY":"2dc61dff59de6b5f8efa4e36a6727015",
+
+# 舔狗日记
+"API_TGRJ":"2dc61dff59de6b5f8efa4e36a6727015",
+# 土味情话
+"API_TWQH":"2dc61dff59de6b5f8efa4e36a6727015"
+}
